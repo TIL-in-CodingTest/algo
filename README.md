@@ -1,10 +1,8 @@
-# 알고리즘
-코딩테스트 문풀
-
-- 참고 사이트: [프로그래머스](https://programmers.co.kr/learn/challenges), [백준](https://www.acmicpc.net/)
-- 언어: 파이썬
-
-
+# 🉑 TIL-in-CodingTest/algo
+1일 1알고로 티어를 올려봅시다 ! !
+<br>
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harin1212)](https://solved.ac/harin1212/)
 
 ## ✳️ Commit Message 규칙
 
@@ -37,4 +35,3 @@
 - 이코테/폴더명/문제명.py                   
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harin1212)](https://solved.ac/harin1212/)
