@@ -6,7 +6,7 @@
 
 
 
-## Commit Message 규칙
+## ✳️ Commit Message 규칙
 
 #### Commit Message
 
@@ -18,7 +18,7 @@
   
 - [이코테] 문제명
 
-## 파일 및 폴더 구조
+## ✳️ 파일 및 폴더 구조
 
 #### 프로그래머스
 
@@ -35,3 +35,6 @@
 #### 이코테
 
 - 이코테/폴더명/문제명.py                   
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harin1212)](https://solved.ac/harin1212/)
