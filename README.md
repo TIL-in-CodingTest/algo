@@ -1,7 +1,8 @@
 # 🉑 TIL-in-CodingTest/algo
-1일 1알고로 티어를 올려봅시다 ! !
+
 <br>
 <br>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harin1212)](https://solved.ac/harin1212/)
 
 ## ✳️ Commit Message 규칙
